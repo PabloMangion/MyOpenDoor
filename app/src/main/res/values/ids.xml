@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editText" type="id" />
+    <item name="textView" type="id" />
+    <item name="bt1" type="id" />
+    <item name="fab" type="id" />
+</resources>
